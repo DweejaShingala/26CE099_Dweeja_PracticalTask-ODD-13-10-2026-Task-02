@@ -1,0 +1,34 @@
+ITUS102 - PRACTICAL EXAMINATION | DEBUGGING AND IMPLEMENTATION REPORT
+Date: 13-10-2026 | Task 02 - Library Late-Return Fine Calculator
+
+Enrollment No.:
+Name:
+
+SIMPLE BUGS (write a brief explanation for each)
+Bug | Original problem | Correction made | Why required
+S1  |                  |                 |
+S2  |                  |                 |
+S3  |                  |                 |
+S4  |                  |                 |
+S5  |                  |                 |
+S6  |                  |                 |
+
+CODE COMPLETION / IMPLEMENTATION (briefly state what was completed)
+M1:
+M2:
+M3:
+M4:
+M5:
+M6:
+D1:
+D2:
+D3:
+
+FUNCTIONAL TEST
+Test input:
+Observed result:
+Mobile layout checked (Yes/No):
+
+GIT VERSION CONTROL
+git log -1 --oneline output:
+GitHub URL (if available):
